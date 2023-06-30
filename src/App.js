@@ -8,7 +8,7 @@ export default function App() {
       <Weather />
       <footer>
         This project was coded by Nataliia Shpak and it is open-sources on {" "}
-      <a href='https://startling-moonbeam-f03261.netlify.app/' target='_blank'>
+      <a href='https://startling-moonbeam-f03261.netlify.app/' target='_blank' rel="noreferrer">
                GitHub
       </a>
       </footer>
