@@ -1,7 +1,7 @@
 body {
   background-image: url('/src/img/beautiful-sky-dark-clouds-gorgeous-panorama-scenic-sunrise-silver-lining-cloudy-orange-blue-background-212962833.webp');
-    background-repeat: space;
-    background-size: cover;
+  background-repeat: space;
+  background-size: cover;
 }
 .App {
     /* text-align: center; */
@@ -10,12 +10,14 @@ body {
 }
 
 .App h1 {
-  color: gold;
+  color: blue;
+  text-align: center;
 }
 
 .App footer {
   font-size: 11px;
   margin: 10px auto;
+  text-align: center;
 }
 /* .App-logo {
   height: 40vmin;
