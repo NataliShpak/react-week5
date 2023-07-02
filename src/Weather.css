@@ -1,8 +1,8 @@
 .Weather {
     background-color: blue;
     color: yellow;
-    border: 1px solid #dadde1;
-    border-radius: 4px;
+    border: 2px solid gold;
+    border-radius: 5px;
     padding: 16px;
     
 }
@@ -36,7 +36,7 @@
     height: 64px;
     width: 64px;
     margin-right: 10px;
-    margin-top: 25px;
+    margin-top: 15px;
     display: inline-block;
 }
 
