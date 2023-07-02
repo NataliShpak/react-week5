@@ -1,3 +1,10 @@
+/* body {
+    background-image: url('/src/img/blue-sky-with-clouds-and-sun-4.jpg');
+    background-repeat: no-repeat;
+    background-size: 75%;
+    padding: 30px auto;
+} */
+
 .Weather {
     background-color: blue;
     color: yellow;
@@ -12,7 +19,6 @@
 }
 
 .Weather h1 {
-    /* color: #878787; */
     display: block;
     font-size: 24px;
     font-weight: 100;

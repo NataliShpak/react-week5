@@ -9,7 +9,7 @@ export default function App() {
       <footer>
         This project was coded by <a href='https://www.shecodes.io/graduates/72575-nataliia-shpak' target='_blank' rel="noreferrer"> Nataliia Shpak </a> {"  "}
         and it is {" "}
-      <a href='https://startling-moonbeam-f03261.netlify.app/' target='_blank' rel="noreferrer">open-sources on GitHub </a>
+      <a href='https://startling-moonbeam-f03261.netlify.app/' target='_blank' rel="noreferrer">open-sources on GitHub </a> {"  "} and hosted on Netlify
       </footer>
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
