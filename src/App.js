@@ -7,10 +7,9 @@ export default function App() {
       <h1>React Weather App</h1>
       <Weather defaultCity="Kharkiv" />
       <footer>
-        This project was coded by Nataliia Shpak and it is open-sources on {" "}
-      <a href='https://startling-moonbeam-f03261.netlify.app/' target='_blank' rel="noreferrer">
-               GitHub
-      </a>
+        This project was coded by <a href='https://www.shecodes.io/graduates/72575-nataliia-shpak' target='_blank' rel="noreferrer"> Nataliia Shpak </a> {"  "}
+        and it is {" "}
+      <a href='https://startling-moonbeam-f03261.netlify.app/' target='_blank' rel="noreferrer">open-sources on GitHub </a>
       </footer>
       {/* <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
