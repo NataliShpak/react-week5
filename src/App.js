@@ -1,5 +1,6 @@
 import './App.css';
 import Weather from "./Weather";
+import 'bootstrap/dist/css/bootstrap.css';
 
 export default function App() {
   return (
@@ -9,22 +10,9 @@ export default function App() {
       <footer>
         This project was coded by <a href='https://www.shecodes.io/graduates/72575-nataliia-shpak' target='_blank' rel="noreferrer"> Nataliia Shpak </a> {"  "}
         and it is {" "}
-      <a href='https://github.com/NataliShpak/react-week5' target='_blank' rel="noreferrer">open-sources on GitHub </a> {"  "} and hosted on Netlify
+        <a href='https://github.com/NataliShpak/react-week5' target='_blank' rel="noreferrer">open-sources on GitHub </a> 
+        {" "} and hosted on Netlify
       </footer>
-      {/* <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header> */}
     </div>
   );
 }
