@@ -14,7 +14,7 @@ export default function WeatherForecast(props) {
 
 
     function handleResponse(response) {
-    console.log(response.data);
+    // console.log(response.data);
     // console.log(props);
   }
 
@@ -33,7 +33,7 @@ export default function WeatherForecast(props) {
         axios.get(apiUrl).then(handleResponse);
     }
     if (loaded) {
-        console.log(forecast);
+        // console.log(forecast);
         return (
             <div className="WeatherForecast">
                 <div className="row">
